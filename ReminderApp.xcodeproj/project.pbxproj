@@ -484,6 +484,7 @@
 				1552A47C1C76F2AB0053DC0D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		1552A47D1C76F2AB0053DC0D /* Build configuration list for PBXNativeTarget "ReminderAppTests" */ = {
 			isa = XCConfigurationList;
@@ -492,6 +493,7 @@
 				1552A47F1C76F2AB0053DC0D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		1552A4801C76F2AB0053DC0D /* Build configuration list for PBXNativeTarget "ReminderAppUITests" */ = {
 			isa = XCConfigurationList;
@@ -500,6 +502,7 @@
 				1552A4821C76F2AB0053DC0D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
